@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "0bcdf9cb2de915b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2c43426305a1d45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8457e34c449ac58e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Huntington Beach/Timeline and notes.canvas",
+                "viewState": {
+                  "x": -1796.9013703993737,
+                  "y": -179.0996084573212,
+                  "zoom": -1.5008579408334457
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "509887f558db7deb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d7fd1fe6d567f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c6af46acda16b1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efca176df011039f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6b0990eee404a2c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4aeed50511419a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cf37db5c061a6c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02024f431e7bc6ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Huntington Beach/Timeline and notes.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "862b964aa4b3dd8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Huntington Beach/Timeline and notes.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10836fba6f278664",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9863ec9abafff40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Huntington Beach/Timeline and notes.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "2c6af46acda16b1e",
+  "lastOpenFiles": [
+    "Huntington Beach/2023-02-14 Local Control Press Conference.md",
+    "Huntington Beach/2022-12-20 Council Meeting.md",
+    "Huntington Beach/2023-02-14 Planning Commission.md",
+    "Huntington Beach/Housing Element Notes.md",
+    "Huntington Beach/Huntington Beach Update Script.md",
+    "Huntington Beach/Timeline and notes.canvas",
+    "Huntington Beach/Images/Pasted image 20230223122856.png",
+    "Huntington Beach/Images/Pasted image 20230223122849.png",
+    "Huntington Beach/Images/Pasted image 20230223122721.png",
+    "Huntington Beach/Images",
+    "Huntington Beach/Images/Pasted image 20230223122909.png",
+    "Huntington Beach/Images/Pasted image 20230223122902.png",
+    "Huntington Beach/Images/Pasted image 20230223122842.png",
+    "Huntington Beach/Images/Pasted image 20230223122829.png",
+    "Huntington Beach",
+    "Untitled.canvas",
+    "202302231042.md",
+    "Untitled.md"
+  ]
+}

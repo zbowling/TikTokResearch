@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"group","label":"Council 2/21","id":"d7c9858cd5e55492","x":780,"y":-1220,"width":1380,"height":1760},
+		{"type":"group","label":"12/20 Council Meeting","id":"3dbe9fd5ebb8dd45","x":-3240,"y":-1220,"width":720,"height":1057},
+		{"type":"group","label":"Planning commission 2/14","id":"7615f468ab4ec6f9","x":-20,"y":-1220,"width":680,"height":1100},
+		{"type":"file","file":"Huntington Beach/Housing Element Notes.md","id":"97050892a82e8ea4","x":-3220,"y":-1951,"width":1065,"height":580},
+		{"type":"link","url":"https://www.youtube.com/watch?v=ryZ9h2ZmQjQ","id":"484204c3cc16e14c","x":-3220,"y":-1200,"width":640,"height":360},
+		{"type":"link","url":"https://www.latimes.com/socal/daily-pilot/news/story/2023-01-12/warning-delivered-to-huntington-beach-city-council-as-it-considers-suing-state-over-housing-laws","id":"fe2d5b3ae824b625","x":-2400,"y":-1220,"width":640,"height":420},
+		{"type":"link","url":"https://www.huntingtonbeachca.gov/announcements/attachments/Press%20Release%20-%202023-01-12%20Mayors%20Statement%20HCD%20Letter.pdf","id":"70a391cc2dcc2d87","x":-2025,"y":-713,"width":690,"height":400},
+		{"type":"file","file":"Huntington Beach/Huntington Beach Update Script.md","id":"502b46cedf21c3a5","x":-2007,"y":-1951,"width":495,"height":379},
+		{"type":"link","url":"https://voiceofoc.org/2023/01/sacramento-warns-huntington-beach-against-violating-state-housing-law/","id":"581cc6b160b33c5e","x":-2025,"y":-163,"width":640,"height":400},
+		{"type":"file","file":"Huntington Beach/2022-12-20 Council Meeting.md","id":"c8a3649f42e47849","x":-3220,"y":-800,"width":640,"height":240},
+		{"type":"link","url":"https://www.youtube.com/watch?v=E7IhYaabG58","id":"b9534b9e5ffd3467","x":0,"y":-1155,"width":640,"height":360},
+		{"type":"link","url":"https://twitter.com/CAgovernor/status/1628296978580013056","id":"3c797ab8e2e7935a","x":800,"y":120,"width":620,"height":400},
+		{"type":"link","url":"https://twitter.com/California_HCD/thread/1628143864426160128","id":"3739fac87ce42cea","x":800,"y":-560,"width":640,"height":580},
+		{"type":"link","url":"https://www.youtube.com/watch?v=YdevR2McV7g","id":"cb8df904ef66193e","x":840,"y":-1155,"width":640,"height":360},
+		{"type":"link","url":"https://twitter.com/AGRobBonta/status/1625253589081006080","id":"2aee8b5796ba0d46","x":1520,"y":-560,"width":620,"height":400},
+		{"type":"text","text":"# Video notes\n","id":"a632ac3d2fd45f8d","x":1520,"y":-1155,"width":250,"height":360},
+		{"type":"link","url":"https://laist.com/news/housing-homelessness/huntington-beach-city-council-state-housing-law","id":"cef7ec72f3e7281e","x":2320,"y":-1220,"width":1011,"height":820},
+		{"type":"file","file":"Huntington Beach/2023-02-14 Local Control Press Conference.md","id":"cfdfdb3b2d661016","x":-900,"y":-1220,"width":840,"height":1100},
+		{"id":"991e6bccea5a9949","x":0,"y":-761,"width":640,"height":601,"type":"file","file":"Huntington Beach/2023-02-14 Planning Commission.md"}
+	],
+	"edges":[
+		{"id":"ad1851d0f0f82486","fromNode":"991e6bccea5a9949","fromSide":"top","toNode":"b9534b9e5ffd3467","toSide":"bottom"},
+		{"id":"702867378caf8206","fromNode":"a632ac3d2fd45f8d","fromSide":"left","toNode":"cb8df904ef66193e","toSide":"right"},
+		{"id":"d113340175ed7757","fromNode":"c8a3649f42e47849","fromSide":"top","toNode":"484204c3cc16e14c","toSide":"bottom"}
+	]
+}
